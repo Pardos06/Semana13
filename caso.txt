@@ -1,0 +1,3 @@
+Caso:
+En una universidad se ha realizado una evalucion a los estudiantes, dichas notas ha causado preocupación en los docentes y como metodo de analisis han utilizado la herramienta de pyspark en el lenguaje de python que ayudará mucho en calcular la media, moda, media y correlacion de las notas que contiene el archivo csv "notas" que contiene los nombres de los estudiantes y sus respectivas notas.
+como consiguiente se tiene los metodos realizados
